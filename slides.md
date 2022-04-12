@@ -59,5 +59,14 @@ Networking > Location > Skill
 
 # { Project Management }
 
-- Waterfall and Agile
+- Both Waterfall and Agile
 - Depends on the project
+
+---
+
+# { Programming Languages }
+
+- Whatever the client wants...
+- ...but mostly C# and JavaScript
+- *Stability is key*
+
