@@ -40,13 +40,9 @@ Networking > Location > Skill
 
 ---
 
-# { A Typical Day }
+# { A Typical Day* }
 
----
-
-# { A Typical Day }
-
-| <---- **PROGRAMMING** | meeting | **PROGRAMMING** ----> |
+*Depends on the project you're on
 
 ---
 
