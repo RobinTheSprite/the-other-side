@@ -33,10 +33,12 @@ Networking > Location > Skill
 
 # { Ramping Up }
 
+```JavaScript
     fixTypo()
-      .then(fixBug()
-        .then(implementFeature()))
+  .then(() => fixBug()
+    .then(() => implementFeature()))
       .catch(e => e.getHelp())
+```
 
 ---
 
