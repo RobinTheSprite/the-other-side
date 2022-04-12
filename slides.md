@@ -11,13 +11,16 @@ style: |
 
 #### What I've Learned Since Graduation
 
+
 ---
 
 # { Timeline }
 
 #### 2 months
 
-*Graduation* -> *Job Hunting* -> **Working**
+```
+Graduation -> Job Hunting -> Working
+```
 
 ---
 
@@ -27,17 +30,16 @@ style: |
 
 #### ~26 applications
 
+```
 Networking > Location > Skill
+```
 
 ---
 
 # { Ramping Up }
 
-```JavaScript
-fixTypo()
-  .then(() => fixBug()
-    .then(() => implementFeature()))
-  .catch(e => e.getHelp())
+```
+fix typo -> fix bug -> small feature -> large feature
 ```
 
 ---
@@ -90,7 +92,9 @@ fixTypo()
 
 #### 1:
 
-Client Needs > My Comfort
+```python
+Client Needs > My Comfort == True
+```
 
 ---
 
@@ -145,3 +149,6 @@ Vector<Coworker> mentoring(3);
 ```C#
 WorkExperience += 1600;
 ```
+---
+
+# { What Do You Want to Know? }
