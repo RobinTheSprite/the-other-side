@@ -70,3 +70,11 @@ Networking > Location > Skill
 - ...but mostly C# and JavaScript
 - *Stability is key*
 
+---
+
+# { Low Code }
+
+#### Seven months of Boomi
+
+![drop-shadow](boomi.png)
+
