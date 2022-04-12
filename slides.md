@@ -34,10 +34,10 @@ Networking > Location > Skill
 # { Ramping Up }
 
 ```JavaScript
-    fixTypo()
+fixTypo()
   .then(() => fixBug()
     .then(() => implementFeature()))
-      .catch(e => e.getHelp())
+  .catch(e => e.getHelp())
 ```
 
 ---
@@ -80,3 +80,68 @@ Networking > Location > Skill
 
 ![drop-shadow](boomi.png)
 
+---
+
+# { Hard Lessons }
+
+---
+
+# { Hard Lessons }
+
+#### 1:
+
+Client Needs > My Comfort
+
+---
+
+# { Hard Lessons }
+
+#### 2:
+
+```python
+if best_practices is None:
+    give_feedback()
+    grit_teeth()
+```
+
+---
+
+# { Hard Lessons }
+
+#### 3:
+
+```C++
+while (notInSchool)
+{
+    askForThings();
+}
+```
+
+---
+
+# { Great Experiences }
+
+```JavaScript
+try {
+  clientProject()
+} catch (me) {
+  me.joinNewProject()
+}
+```
+
+---
+
+# { Great Experiences }
+
+```C++
+Vector<Coworker> greatPeople(20);
+Vector<Coworker> mentoring(3);
+```
+
+---
+
+# { Great Experiences }
+
+```C#
+WorkExperience += 1600;
+```
