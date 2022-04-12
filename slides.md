@@ -57,6 +57,13 @@ Networking > Location > Skill
 
 ---
 
+# { Project Management }
+
+- Waterfall and Agile
+- Depends on the project
+
+---
+
 # { Tools of the Trade }
 
 #### Languages I Have Used So Far
