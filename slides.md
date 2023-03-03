@@ -7,148 +7,103 @@ style: |
     }
 ---
 
-# { The First Year }
+# { On the Other Side }
 
-#### What I've Learned Since Graduation
-
+#### Two Years in the Software Industry
 
 ---
 
-# { Timeline }
+# { About Me }
 
-#### 2 months
-
-```
-Graduation -> Job Hunting -> Working
-```
+- Fairbanks born and raised
+- UAF Class of 2021
+- Currently living in Anchorage
+- Programmer at Resource Data, Inc
 
 ---
 
 # { Finding a Job }
 
+- Started before graduation
+- Made ~26 applications
+- Found success through networking and locality
+
+---
+
+# { Competition is stiff online }
+
 ![drop-shadow](linkedin.png)
-
-#### ~26 applications
-
-```
-Networking > Location > Skill
-```
+![drop-shadow](linkedin2.png)
+![drop-shadow](linkedin1.png)
 
 ---
 
-# { Ramping Up }
+# { Resource Data }
 
-```
-fix typo -> fix bug -> small feature -> large feature
-```
-
----
-
-# { A Typical Day* }
-
-*Depends on the project you're on
+- Software and GIS Consulting Company
+- Offices in Anchorage, Juneau, Boise, Portland, and Houston
+- Variety of industries and projects
+- Stable and comfortable
+- Not flashy, but sill far reaching
 
 ---
 
-# { A Typical Day }
+# { Pleasant Surprises }
 
-| <---- **PROGRAMMING** | meeting | **PROGRAMMING** ----> |
-
-- 2-4 meetings per week
-- 1-3 client projects
-- 1-3 internal projects
-- No more than 4 tasks at once!
-
----
-
-# { Project Management }
-
-- Both Waterfall and Agile
-- Depends on the project
-
----
-
-# { Programming Languages }
-
-- Whatever the client wants...
-- ...but mostly C# and JavaScript
-- *Stability is key*
-
----
-
-# { Low Code }
-
-#### Seven months of Boomi
-
-![drop-shadow](boomi.png)
+- It really is just programming
+- Work started simple and got more complex
+- You can ask for the answer to the problem
+- Deadlines are often flexible
 
 ---
 
 # { Hard Lessons }
 
----
-
-# { Hard Lessons }
-
-#### 1:
-
-```python
-Client Needs > My Comfort == True
-```
+- Money matters
+- Sometimes the code stays unclean
+- Sometimes the code isn't code
+- Good project management is about people, not processes
 
 ---
 
-# { Hard Lessons }
+# { The Past Year }
 
-#### 2:
-
-```python
-if best_practices is None:
-    give_feedback()
-    grit_teeth()
-```
+- Not enough work can be just as stressful as too much work
+- Have patience with your work
+- Speak up
+- Go for easy wins when you can
 
 ---
 
-# { Hard Lessons }
+# { Learn More About This }
 
-#### 3:
-
-```C++
-while (notInSchool)
-{
-    askForThings();
-}
-```
+- Databases
+  - Procedures
+  - Data access layer
+  - Optimization
+- Cloud Technologies
+  - AWS is the safest bet
 
 ---
 
-# { Great Experiences }
+# { What Do You Think About... }
 
-```JavaScript
-try {
-  clientProject()
-} catch (me) {
-  me.joinNewProject()
-}
-```
+- ChatGPT?
+- Tech layoffs?
+- <insert new JavaScript framework here>?
+- Functional programming?
+- <old language here> in 2023?
+- SAP project in Anchorage?
 
----
-
-# { Great Experiences }
-
-```C++
-Vector<Coworker> greatPeople(20);
-Vector<Coworker> mentoring(3);
-```
-
----
-
-# { Great Experiences }
-
-```C#
-WorkExperience += 1600;
-```
 ---
 
 # { What Do You Want to Know? }
+
+---
+
+# { Contact }
+
+- munderwood@resourcedata.com
+- UAF Discord @Mark Underwood
+- LinkedIn https://www.linkedin.com/in/mark-t-underwood
+- https://www.resourcedata.com/
